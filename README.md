@@ -5,7 +5,7 @@
       height="38"
       width="38">
 </sub>
-SS Rule Snippet
+SS Rule Snippet 1
 </h1>
 <p align="center">
 <sup>
